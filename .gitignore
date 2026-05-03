@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+report.txt
+venv/
+.env
+wordlists/custom.txt
